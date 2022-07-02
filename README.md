@@ -16,7 +16,8 @@ The app runs in development mode
 
 ### Deployment configuration
 
-Vercel
+Vercel.\
+Open [https://skeleton-loading-screen.vercel.app/](https://skeleton-loading-screen.vercel.app/)
 
 ### Setup & installation
 
